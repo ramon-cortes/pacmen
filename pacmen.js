@@ -58,7 +58,7 @@ function update() {
         //console.log(pacArray[item.face[0]][item.face[1]]);
         item.newimg.src = pacArray[item.face[0]][item.face[1]];            
     })
-    setTimeout(update, 100); //original 20
+    setTimeout(update, 20); //original 20
 }
 
 function checkCollisions(item) {
