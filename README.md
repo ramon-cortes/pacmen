@@ -1,6 +1,6 @@
 <img src="images/PacMan1.png" height="40" width="40">
 
-### Pacmen    
+## Pacmen    
 
 Creates images (Pacman) on the screen. The user can choose the amount of Pacmen to create.
 Pacmen will have a random starting position and speed. They will bounce around the screen acording to those parameters.
